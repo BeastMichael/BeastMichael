@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/BeastMichael/BeastMichael/blob/main/me.jpg?raw=true" width=200 height=200>
+  <img src="https://github.com/BeastMichael/BeastMichael/blob/main/me_full.gif?raw=true" width=400 height=225>
   <h1>Hi! My name is Michael.</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=435&lines=I+make+click-clacks+into+knickknacks" alt="Typing SVG" /></a>
   <h2>💻 Programming Experience</h2>
